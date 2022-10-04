@@ -1,0 +1,7 @@
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\TiposDeVariaveis\bin\Debug\TiposDeVariaveis.exe.config
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\TiposDeVariaveis\bin\Debug\TiposDeVariaveis.exe
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\TiposDeVariaveis\bin\Debug\TiposDeVariaveis.pdb
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\TiposDeVariaveis\obj\Debug\TiposDeVariaveis.csprojAssemblyReference.cache
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\TiposDeVariaveis\obj\Debug\TiposDeVariaveis.csproj.CoreCompileInputs.cache
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\TiposDeVariaveis\obj\Debug\TiposDeVariaveis.exe
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\TiposDeVariaveis\obj\Debug\TiposDeVariaveis.pdb

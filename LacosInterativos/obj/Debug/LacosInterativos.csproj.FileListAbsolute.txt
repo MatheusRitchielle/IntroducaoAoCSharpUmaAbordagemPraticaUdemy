@@ -1,0 +1,7 @@
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\LacosInterativos\bin\Debug\LacosInterativos.exe.config
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\LacosInterativos\bin\Debug\LacosInterativos.exe
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\LacosInterativos\bin\Debug\LacosInterativos.pdb
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\LacosInterativos\obj\Debug\LacosInterativos.csproj.CoreCompileInputs.cache
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\LacosInterativos\obj\Debug\LacosInterativos.exe
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\LacosInterativos\obj\Debug\LacosInterativos.pdb
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\LacosInterativos\obj\Debug\LacosInterativos.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Matheus\PROJETOS\C#\IntroducaoAoCSharpUmaAbordagemPratucaUdemy\HelloWorld\obj\Debug\HelloWorld.pdb
